@@ -1,0 +1,14 @@
+def function1 ():
+	i = input ('Enter Raiders')
+	x = 9
+	while (x < 10):
+		print ('have')
+		x = x+1
+	for x in range (1):
+		print ('a')
+	x = 5
+	y = 2
+	# inserting if else statment for winning precentage
+	if x / y > 1.0:
+		print( " Team winning precentage is over .500" )
+	else:print( " Team winning precentage is less than .500" )
