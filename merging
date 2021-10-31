@@ -1,0 +1,13 @@
+def function1 ():
+	while True:
+		i = input ('Please put a Team Name') # imput used to print the name
+		for x in input:
+			print (x) #prints the name from the input
+		#defining win and loss constants
+			x = 5
+			y = 2
+	# inserting if else statment for winning precentage
+			if x / y > 1.0:
+				print( " Team winning precentage is over .500" )
+			else:
+				print( " Team winning precentage is less than .500" )
