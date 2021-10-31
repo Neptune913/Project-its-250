@@ -1,0 +1,15 @@
+def function1 (): #base line of the function and backbone of the code
+	i = input ('Enter Raiders') # input command to help run the full code
+	x = 9
+	while (x < 10):
+		print ('have') # used to print a single comment or word to have use of a loop
+		x = x+1 
+	for x in range (1): #used to print a single comment or word
+		print ('a')
+	#defining win and loss constants
+	x = 5
+	y = 2
+	# inserting if else statment for winning precentage
+	if x / y > 1.0:
+		print( " Team winning precentage is over .500" )
+	else:print( " Team winning precentage is less than .500" )
