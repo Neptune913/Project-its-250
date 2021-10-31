@@ -1,0 +1,4 @@
+while True:
+    i = input ('Please put a Team Name') # imput used to print the name
+    for x in input:
+        print (x) #prints the name from the input
